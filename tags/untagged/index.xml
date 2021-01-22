@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Marc Vernet</title>
+    <link>https://marcvernet31.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Marc Vernet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 14 Jan 2021 17:48:24 +0100</lastBuildDate>
+    
+	<atom:link href="https://marcvernet31.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kernel methods on cannabis microsatellite data</title>
+      <link>https://marcvernet31.github.io/posts/2021/01/kernel-methods-on-cannabis-microsatellite-data/</link>
+      <pubDate>Thu, 14 Jan 2021 17:48:24 +0100</pubDate>
+      
+      <guid>https://marcvernet31.github.io/posts/2021/01/kernel-methods-on-cannabis-microsatellite-data/</guid>
+      <description>This project was developed with the goal to study in which way kernel functions could better prediction results, and discover ways to fine-tune custom functions in order to to maximize the performance.
+This work was done in the context of AA2 UPC class final project, oriented to kernel methods. Most of the work was done with Python&amp;rsquo;s sklearn and R for preprocessing.
+The final report with conclusions and interactive notebooks with used code can be found at the github repository.</description>
+    </item>
+    
+    <item>
+      <title>Predictive Analytics with Big Data Tecnologies</title>
+      <link>https://marcvernet31.github.io/posts/2021/01/predictive-analytics-with-big-data-tecnologies/</link>
+      <pubDate>Thu, 07 Jan 2021 17:40:52 +0100</pubDate>
+      
+      <guid>https://marcvernet31.github.io/posts/2021/01/predictive-analytics-with-big-data-tecnologies/</guid>
+      <description>The objective of this project was the creation of a distributed ETL data flow for an aviation maintenance business case. The original dataset is a set of maintenance and flight data from a real airline (AIMS and AMOS extracted data), and the goal was cleaning the data and extracting the necessary KPI&amp;rsquo;s in order to train a model to predict whether maintenance was required for a specific airplane.
+All code was done having distribution in mind, with Python and Spark API, pyspark.</description>
+    </item>
+    
+    <item>
+      <title>Distributed Systems</title>
+      <link>https://marcvernet31.github.io/posts/2020/07/distributed-systems/</link>
+      <pubDate>Wed, 22 Jul 2020 12:59:03 +0100</pubDate>
+      
+      <guid>https://marcvernet31.github.io/posts/2020/07/distributed-systems/</guid>
+      <description>This projects where developed for the PSD-GCED class as a way to learn about distributed computing environments.
+The first project was oriented on learning to work in HPC (High Performance Computing) distributed environments. We where given access to the MareNostrum supercomputer with the aim to create and execute scripts to run the NAS Parallel Benchmarks with different configurations. The scripts and final report can we found here.
+The second project objective was to learn to work with cloud providers, taking advantage of its distributed capabilities.</description>
+    </item>
+    
+    <item>
+      <title>Telegram Bicing bot</title>
+      <link>https://marcvernet31.github.io/posts/2019/07/telegram-bicing-bot/</link>
+      <pubDate>Wed, 03 Jul 2019 10:47:08 +0100</pubDate>
+      
+      <guid>https://marcvernet31.github.io/posts/2019/07/telegram-bicing-bot/</guid>
+      <description>TheRealBicingBot, is a Telegram bot capable of retrieving real time information of the Bicing service. Bicing is the Barcelona bike sharing service. It is concieved as a way to help maintenance workers keep of a good bike distribucion among the different city areas.
+The application is used via direct chat with the bot. The network of stations is modeled as a graph, that is created on demand based on user input specifications.</description>
+    </item>
+    
+    <item>
+      <title>Polygon Calculator</title>
+      <link>https://marcvernet31.github.io/posts/2019/01/polygon-calculator/</link>
+      <pubDate>Fri, 04 Jan 2019 11:56:42 +0100</pubDate>
+      
+      <guid>https://marcvernet31.github.io/posts/2019/01/polygon-calculator/</guid>
+      <description>Polygon Calculator is a C++ program that provides an intuitive and easy way of doing different calculus related to polygon geometry from the computer terminal.
+The user can input polygons as a set of points, and calculate metrics such as area or perimeter. Multiple polygons can be inputed, so it&amp;rsquo;s possible to generete intersections and bounding boxes.
+All results can be saved in a .txt file and loaded again. The program also supports plotting inputed polygons and results in a .</description>
+    </item>
+    
+  </channel>
+</rss>
